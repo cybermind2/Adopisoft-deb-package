@@ -1,1 +1,0 @@
-AdoPiSoft PPPOE Server Plugin
